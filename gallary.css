@@ -1,0 +1,13 @@
+.imgcontainer{
+    height: auto;
+    width: 100%;
+    background-color: #343f56;
+    display: flex;
+    text-align: center;
+}
+.galimg{
+    height: 500px;
+    width: 800px;
+    margin: auto;
+    display: block;
+}
